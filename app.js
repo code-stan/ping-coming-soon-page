@@ -46,6 +46,7 @@ const currentTheme = localStorage.getItem("currentTheme");
 // THEME CONDITIONAL
 if(currentTheme){
     bodyTag.classList.add("dark-theme");
+    toggleTheme.innerText = "L";
 }
 
 //BUTTON TEXT CONTENT CONDITIONAL
