@@ -23,13 +23,17 @@
     --Gray: hsl(0, 0%, 84%);
 }
 
+@font-face{
+    font-family: Libre-franklin;
+    src: url("./fonts/LibreFranklin-VariableFont_wght.ttf");
+}
 *,
 *::before,
 *::after{
     box-sizing: border-box;
     padding: 0;
     margin: 0;
-    font-family: 'Poppins', sans-serif;
+    font-family: Libre-franklin, sans-serif;
 }
 
 
@@ -47,27 +51,29 @@ body{
     transition: .3s all ease-in-out;
 }
 /* TOGGLE THEME  */
-.toggle-theme{
+.theme{
     position: fixed;
     bottom: 5vh;
     left: clamp(.5rem, 4vw, 3rem);
-    color: var(--Theme);
-    background-color: var(--toggle-bg);
     width: 6rem;
     display: flex;
     align-items: center;
     justify-content: center;
-    aspect-ratio: 1/1;
     border-radius: 50%;
     font-size: 2rem;
     font-weight: 700;
-    transition: .3s all ease-in-out;
     animation-name: toggle;
     animation-iteration-count: infinite;
     animation-duration: 1.5s;
     animation-direction: alternate;
     animation-timing-function: ease-in-out;
     cursor: pointer;
+}
+.l-theme{
+    display: none;
+}
+.d-theme{
+    display: block;
 }
 @keyframes toggle {
     0%{
