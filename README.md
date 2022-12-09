@@ -30,8 +30,8 @@ The users should be able to:
 
 ### Screenshot
 
-![Light theme design preview for the Project tracking intro component challenge](./design/Project%20tracking%20intro%20component%20screenshot.png)
-![Dark theme design preview for the Project tracking intro component challenge](./design/Project%20tracking%20intro%20component%20screenshot.png)
+![Light theme design preview for the Project tracking intro component challenge](./design/Light%20theme%20screenshot.png)
+![Dark theme design preview for the Project tracking intro component challenge](./design/Dark%20theme%20screenshot.png)
 
 
 ### Links
