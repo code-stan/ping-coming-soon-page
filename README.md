@@ -1,20 +1,23 @@
 # Frontend Mentor - Ping coming soon page
 
-![Design preview for the Ping coming soon page coding challenge](./design/desktop-preview.jpg)
+## Table of contents
 
-## Welcome! 👋
+- [Overview](#overview)
+  - [The challenge](#the-challenge)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
+  - [What I learned](#what-i-learned)
+  - [Target for this project](#target-for-this-project)
+  - [Continued development](#continued-development)
+- [Author](#author)
 
-Thanks for checking out this front-end coding challenge.
-
-[Frontend Mentor](https://www.frontendmentor.io) challenges help you improve your coding skills by building realistic projects.
-
-**To do this challenge, you need a basic understanding of HTML, CSS and JavaScript.**
+## Overview
 
 ## The challenge
 
 Your challenge is to build out this Coming Soon page and get it looking as close to the design as possible.
-
-## The challenge requirements
 
 The users should be able to: 
 
@@ -25,19 +28,41 @@ The users should be able to:
 	- The `input` field is empty. The message for this error should say *"Whoops! It looks like you forgot to add your email"*
 	- The email address is not formatted correctly (i.e. a correct email address should have this structure: `name@host.tld`). The message for this error should say *"Please provide a valid email address"*
 
+### Screenshot
+
+![Light theme design preview for the Project tracking intro component challenge](./design/Project%20tracking%20intro%20component%20screenshot.png)
+![Dark theme design preview for the Project tracking intro component challenge](./design/Project%20tracking%20intro%20component%20screenshot.png)
 
 
-**----------S-T-A-T-U-S-: fulfilled-----------------**
+### Links
+- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
-## Accomplishment Info
-This project was done with
-- <i>HTML 5</i> 
-- CSS 
-- JAVASCRIPT and 
-- REGEX(regular expression) for form validation 
+## My process
 
-## My Links
+### Built with
 
-- [My Portfolio](https://www.codestan.netlify.app)
-- [Frontend Mentor](https://www.frontendmentor.io)
-- [Twitter](https://www.twitter.com/codestanley)
+- Semantic HTML5 markup
+- CSS custom properties
+- Flexbox
+- CSS animation
+- Javascript
+
+
+### What I learned
+
+I learned how to use local Storage (Not intended for this project) in this project
+
+### Target for this project
+- Form validation
+- Application of themes.
+
+
+### Continued development
+
+I want to continue to focus more on local storage in the future
+
+## Author
+
+- Website - [CodeStan Portfolio](https://www.codestan.netlify.app)
+- Frontend Mentor - [@code-stan](https://www.frontendmentor.io/profile/code-stan)
+- Twitter - [@Codestanley](https://www.twitter.com/codestanley)
